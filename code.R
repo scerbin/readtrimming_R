@@ -1,5 +1,5 @@
 ##### Final work through
-##### This takes two files, one of read and another list of reads and the length of the read and the lenght needed to make the read the same lenght as another dateset of read
+##### This takes two files, one of read and another list of reads and the length of the read and the length needed to make the read the same length as another dateset of read
 ##### I wrote a python program but using the R strtrim function is faster
 
 library(stringr)
